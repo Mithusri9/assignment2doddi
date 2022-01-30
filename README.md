@@ -9,8 +9,8 @@ Himachal pradesh is a ***northern Indian state*** in the Himalayas. It is home t
 The ariport near Himachal pradesh is Gaggal Ariport
 The nearest ariport to gaggal is Dharamsala (dhm). You can take a train fromn  Amritsar to gaggal via Golden Temple, Amritsar Jn, Pathankt,and kangra Mandri in ariund 10h 12m.
 
-*LIST OF SOME SPECIFIC FOOD ITEMS
-    *Chicken Bririyani
-    *Naan roti
-    *Paneer curry
-    *Rasagula
+LIST OF SOME SPECIFIC FOOD ITEMS
+    -Chicken Bririyani
+    -Naan roti
+    -Paneer curry
+    -Rasagula
