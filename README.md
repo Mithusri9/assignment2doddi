@@ -23,4 +23,4 @@ Himachal pradesh is a ***northern Indian state*** in the Himalayas. It is home t
     - Paneer curry
     - Rasagula
 
- [github](https://github.com/Mithusri9/assignment2doddi/blob/main/AboutMe.md)
+ [ABOUT ME](https://github.com/Mithusri9/assignment2doddi/blob/main/AboutMe.md)
