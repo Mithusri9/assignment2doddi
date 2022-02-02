@@ -24,3 +24,25 @@ Himachal pradesh is a ***northern Indian state*** in the Himalayas. It is home t
     - Rasagula
 
  [ABOUT ME](https://github.com/Mithusri9/assignment2doddi/blob/main/AboutMe.md)
+
+
+----
+
+
+# Sports Activities
+
+The table recoomends some of the sport activities.
+
+|    **Sport/Activity**  |    **Location**  | **Amount**  |
+|      ----              |    -----         |   -----     |
+|      Batmenton         |  Indoor stadium  |     100     |
+|      Cricket           |    Ground        |     200     |
+|      Baseball          |  NWSM Ground     |     500     |
+|      Basketball        |  Indoor stadium  |     100     | 
+
+
+----
+
+
+
+
