@@ -44,5 +44,10 @@ The table recoomends some of the sport activities.
 ----
 
 
+# Quotes by Greatest people
 
+>"We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far." by ***Swami Vivekananda***
+
+>"A dream is not that which you see while sleeping, it is something that does not let you sleep."
+by ***APJ Abdul Kalam***
 
